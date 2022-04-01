@@ -1,0 +1,16 @@
+switch(i)
+{
+    case 0;
+	  food = "cherry"
+        break;
+    case 1:
+   	  food = "strawberry"
+        break;
+    case 3;
+	  food = "apple"
+        break;
+    default:
+        Console.WriteLine("sorry. we dont sell"+food+".");
+        break;
+}
+   
