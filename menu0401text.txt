@@ -9,6 +9,9 @@ switch(i)
     case 2;
 	  food = "apple"
         break;
+    case 3;
+	  food = "orange"
+        break;
     default:
         Console.WriteLine("sorry. we dont sell"+food+".");
         break;
