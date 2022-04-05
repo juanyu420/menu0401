@@ -6,7 +6,7 @@ switch(i)
     case 1:
    	  food = "strawberry"
         break;
-    case 3;
+    case 2;
 	  food = "apple"
         break;
     default:
